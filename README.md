@@ -1,2 +1,0 @@
-# mycodingworld
-my first repository
